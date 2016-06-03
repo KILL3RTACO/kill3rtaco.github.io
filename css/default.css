@@ -90,6 +90,10 @@ html, body {
   font-size: 18pt;
 }
 
+.project-header-left {
+  text-align: center;
+}
+
 .project-h1 {
   padding-bottom: 0.1em;
   border-bottom: 1px solid #FFF;
