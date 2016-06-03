@@ -90,20 +90,24 @@ html, body {
   font-size: 18pt;
 }
 
+.project-header:not(:first-child) {
+  margin-top: 2em;
+}
+
 .project-header-left {
   text-align: left;
 }
 
-.project-1 {
+.project-header-1 {
   padding-bottom: 0.1em;
   border-bottom: 1px solid #FFF;
 }
 
-.project-2 {
+.project-header-2 {
   font-size: 16pt;
 }
 
-.project-3 {
+.project-header-3 {
   font-size: 14pt;
 }
 
