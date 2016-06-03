@@ -69,6 +69,10 @@ html, body {
 }
 
 .project-abandoned {
+  color: darkred;
+}
+
+.project-partially-abandoned {
   color: red;
 }
 
@@ -76,7 +80,15 @@ html, body {
   color: orange;
 }
 
+.project-inaccessible {
+  color: gray;
+}
+
 .project-demo-available {
+  color: lime;
+}
+
+.project-mature {
   color: green;
 }
 
