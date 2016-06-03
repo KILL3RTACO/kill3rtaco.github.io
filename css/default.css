@@ -103,4 +103,20 @@ html, body {
   font-size: 14pt;
 }
 
+.project-grid-link {
+  display: inline-block;
+  background-color: #000;
+  padding: 1.75em 2em;
+  text-align: center;
+}
+
+.project-grid-link:link, .project-grid-link:hover, .project-grid-link:visited {
+  text-decoration: none;
+  color: #DADADA;
+}
+
+.project-grid-link:hover {
+  background-color: #003785;
+}
+
 /*# sourceMappingURL=default.css.map */
