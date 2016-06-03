@@ -91,19 +91,19 @@ html, body {
 }
 
 .project-header-left {
-  text-align: center;
+  text-align: left;
 }
 
-.project-h1 {
+.project-1 {
   padding-bottom: 0.1em;
   border-bottom: 1px solid #FFF;
 }
 
-.project-h2 {
+.project-2 {
   font-size: 16pt;
 }
 
-.project-h2 {
+.project-3 {
   font-size: 14pt;
 }
 
