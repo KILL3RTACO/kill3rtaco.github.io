@@ -80,6 +80,10 @@ html, body {
   color: green;
 }
 
+.project-umbrella {
+  color: purple;
+}
+
 .project-header {
   text-align: center;
   font-weight: bold;
