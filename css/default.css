@@ -103,11 +103,19 @@ html, body {
   font-size: 14pt;
 }
 
+.project-grid {
+  margin: auto;
+}
+
 .project-grid-link {
   display: inline-block;
   background-color: #000;
   padding: 1.75em 2em;
   text-align: center;
+}
+
+.project-grid-link:not(:first-child) {
+  margin-left: 0.5em;
 }
 
 .project-grid-link:link, .project-grid-link:hover, .project-grid-link:visited {
