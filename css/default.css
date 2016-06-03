@@ -37,7 +37,7 @@ html, body {
 .navbar-item a:hover {
   color: #003785;
 }
-.navbar-item .navbar-project-labels {
+.navbar-item .project-labels-short {
   display: inline-block;
   font-size: 8pt;
 }
