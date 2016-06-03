@@ -104,7 +104,7 @@ html, body {
 }
 
 .project-grid {
-  margin: auto;
+  text-align: center;
 }
 
 .project-grid-link {
