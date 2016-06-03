@@ -2,7 +2,7 @@ html, body {
   background-color: #2A2A2A;
   font-family: "Trebuchet MS";
   color: #DADADA;
-  font-size: 12pt;
+  font-size: 11pt;
 }
 
 #navbar {
@@ -103,7 +103,7 @@ html, body {
 }
 
 .project-header:not(:first-child) {
-  margin-top: 2em;
+  margin-top: 1.5em;
 }
 
 .project-header-left {
