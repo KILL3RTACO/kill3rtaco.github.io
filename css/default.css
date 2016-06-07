@@ -177,7 +177,7 @@ a:hover {
   background-color: #000;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
 }
-#project-info-right .project-labels, #project-info-right .project-languages, #project-info-right .project-platforms, #project-info-right .project-repos, #project-info-right .project-desc, #project-info-right .project-demo {
+#project-info-right .project-labels, #project-info-right .project-languages, #project-info-right .project-platforms, #project-info-right .project-repos, #project-info-right .project-desc, #project-info-right .project-demo, #project-info-right .project-dependent, #project-info-right .project-dependency {
   margin-top: 0.25em;
   margin-left: 0.75em;
 }
@@ -186,12 +186,6 @@ a:hover {
 }
 #project-info-right .project-repos .pretty-link, #project-info-right .project-platforms .platform-link {
   display: block;
-}
-#project-info-right .project-repos .pretty-link a {
-  vertical-align: top;
-}
-#project-info-right .project-repos .pretty-link .pretty-link-img {
-  height: 1em;
 }
 #project-info-right a:hover {
   color: #DADADA;
@@ -204,6 +198,13 @@ a:hover {
 
 .project-info-right-header:not(:first-child) {
   margin-top: 0.75em;
+}
+
+.pretty-link a {
+  vertical-align: top;
+}
+.pretty-link .pretty-link-img {
+  height: 1em;
 }
 
 /*# sourceMappingURL=default.css.map */
