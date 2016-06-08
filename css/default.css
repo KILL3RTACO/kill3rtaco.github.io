@@ -209,6 +209,11 @@ a:hover {
   margin-top: 0.75em;
 }
 
+.platform-link img {
+  height: 1em;
+  vertical-align: top;
+}
+
 .pretty-link a {
   vertical-align: top;
 }
